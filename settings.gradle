@@ -1,0 +1,3 @@
+rootProject.name = "Demo2Lib"
+include ':app'
+include ':util-box'
